@@ -3,8 +3,8 @@ Bu repository C# Form kullanılarak oluşturulan projelerdir.
 
 Murat Yücedağ tarafından hazırlanan Udemy'de bulunan "25 Derste 25 Proje" kursundan faydalanarak oluşturulmuştur.
 
-#### [Bilgi Yarışması](#Bilgi-Yarışması)
-#### [Hastane Yönetim Sistemi](#Hastane-Yönetim-Sistemi)
+#### [Bilgi Yarışması](#Bilgi-Yarı-ması)
+#### [Hastane Yönetim Sistemi](#Hastane-Y-netim-Sistemi)
 #### [N Katmanlı Mimari Projesi](#n-katmanlı-mimari-projesi)
 #### [Öğrenci Not Hesaplama Uygulaması](#öğrenci-not-hesaplama-uygulaması)
 #### [Pasta Pişirme Süreç Uygulaması](#pasta-pişirme-süreç-uygulaması)
