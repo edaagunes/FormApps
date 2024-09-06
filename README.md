@@ -8,8 +8,8 @@ Murat Yücedağ tarafından hazırlanan Udemy'de bulunan "25 Derste 25 Proje" ku
 #### [N Katmanlı Mimari Projesi](#n-katmanlı-mimari-projesi-1)
 #### [Öğrenci Not Hesaplama Uygulaması](#öğrenci-not-hesaplama-uygulaması-1)
 #### [Pasta Pişirme Süreç Uygulaması](#pasta-pişirme-süreç-uygulaması-1)
-#### [Sinema/Büfe Satış Projesi](#sinema-büfe-satış-projesi-1)
-#### [Uçak Bileti Rezervasyon Projesi](#uçak-bileti-rezervasyon-projesi-1)
+#### [Sinema/Büfe Satış Projesi](#sinemabüfe-satış-projesi-1)
+#### [Uçak Bileti Rezervasyon Projesi](#uçakbilet-rezervasyon-projesi)
 
 
 ### Bilgi Yarışması
