@@ -18,7 +18,7 @@ Form elementleri kullanılarak oluşturuldu. Cevaplara göre doğru/yanlış say
 <img width=500 height=400 src="https://github.com/user-attachments/assets/755a1f55-4ba7-4337-8b02-761ce7e3247c"> 
 <img width=500 height=400 src="https://github.com/user-attachments/assets/bff97482-81a9-41bd-9cc1-0ce4641079e1">
 
-### Hastane Yönetim Sistemi
+# Hastane Yönetim Sistemi
 **SQL Server** kullanılarak projenin veri tabanı oluşturuldu. Tablolara veri girişleri yapıldı. Veri tabanında bulunan tablolar:
 <ol>
     <li>Hasta Tablosu</li>
